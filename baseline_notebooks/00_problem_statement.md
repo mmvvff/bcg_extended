@@ -1,0 +1,2 @@
+# Problem statement
+In today's competitive utilities landscape, a robust defensive marketing strategy focused on minimizing customer churn is crucial for maintaining a loyal customer base. This DS project aims to to tackle this issue by providing valuable insights to inform customer churn prevention programs at PowerCo.
