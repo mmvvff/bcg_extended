@@ -4,10 +4,10 @@
 This project is based on a job simulation from Forage, focusing on a comprehensive Data Science workflow. It covers problem framing, hypothesis formulation, data pre-processing, model training and evaluation, and presenting findings to a non-technical audience. The project extends beyond the initial simulation requirements by incorporating Extended Data Pre-processing Techniques and conducting AB Testing of Pre-processing Approaches to evaluate their impact on model performance.
 
 ## Project Structure
-1. Problem Framing and Hypothesis.
-2. Data cleaning and exploratory analysis.
-3. Data Pre-processing and feature engineering.
-4. Model Training and Evaluation, and business insights.
+1. [Problem Framing and Hypothesis](https://github.com/mmvvff/bcg_extended/blob/main/baseline_notebooks/00_problem_statement.md).
+2. [Data cleaning and exploratory analysis](https://github.com/mmvvff/bcg_extended/blob/main/baseline_notebooks/01_eda.ipynb).
+3. [Data Pre-processing and feature engineering](https://github.com/mmvvff/bcg_extended/blob/main/baseline_notebooks/02_feature_engineering.ipynb).
+4. [Model Training and Evaluation, and business insights](https://github.com/mmvvff/bcg_extended/blob/main/baseline_notebooks/03_modeling_RF_final.ipynb).
 5. Extended Data Pre-processing Techniques.
 6. AB Testing of Pre-processing Approaches.
 
