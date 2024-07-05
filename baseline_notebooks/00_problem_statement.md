@@ -9,10 +9,10 @@ Our primary hypothesis is that price factors are the main drivers of customer ch
 2. Non-price factors, while potentially influential, play a secondary role in determining customer churn.
 
 Through our analysis, we examine this hypothesis and explore the relative importance of price and non-price factors in predicting customer churn.
-----
+
 ## Data requirements
 Ideally, we require historical data on customer characteristics (e.g., billing rates, service usage patterns, customer complaints, and a churn indicator), and on service characteristics (e.g., type of energy, service failures and pricing information).
-----
+
 ## Project Structure
 
 [Notebook 1: Data Preparation and Exploration](https://github.com/mmvvff/bcg_extended/blob/main/baseline_notebooks/01_eda.ipynb)
@@ -53,7 +53,7 @@ Ideally, we require historical data on customer characteristics (e.g., billing r
 - Summarize key findings from the model
 - Provide actionable recommendations
 - Discuss model limitations and areas for future research
-----
+
 ## Expected Outcomes:
 1. A predictive model capable of identifying customers at high risk of churning
 2. Insights into the main factors driving customer churn
