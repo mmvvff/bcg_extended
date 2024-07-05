@@ -1,6 +1,6 @@
 # Problem Statement
 
-In today's competitive utilities landscape, a robust defensive marketing strategy focused on minimizing customer churn is crucial for maintaining a loyal customer base. This data science project aims to tackle this issue by providing valuable insights to inform customer churn prevention programs at PowerCo. We will develop a predictive model for customer churn in the utilities sector, focusing on identifying high-risk customers and understanding the key factors contributing to churn.
+In today's competitive utilities landscape, a robust defensive marketing strategy focused on minimizing customer churn is crucial for maintaining a loyal customer base. This data science project aims to tackle this issue by providing valuable insights to inform customer churn prevention programs based on open source data from [The Forage](https://www.theforage.com/). We will develop a predictive model for customer churn in the utilities sector, focusing on identifying high-risk customers and understanding the key factors contributing to churn.
 
 **Hypothesis:**
 Our primary hypothesis is that price factors are the main drivers of customer churn in the utilities sector. Specifically, we posit that:
